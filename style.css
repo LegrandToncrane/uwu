@@ -95,3 +95,6 @@ main {
     flex-direction: column;
   }
 }
+html{
+  backround-color : #000000 ;
+  }
